@@ -1,0 +1,14 @@
+body {
+  font-size:100%;
+}
+#column1 {
+  float: left;
+  width: 45%;
+}
+#column2 {
+  width: 45%;
+  float: left;
+}
+#heading {
+  width: 91%;
+}
